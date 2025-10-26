@@ -479,12 +479,6 @@
         <mxCell id="I5XvUWn4JPm9-9BwZVB6-163" value="parabéns&amp;nbsp;&lt;div&gt;vc trabalhou como progamador de computador&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#A20025,#1A1A1A);" vertex="1" parent="1">
           <mxGeometry x="-270" y="2390" width="280" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="I5XvUWn4JPm9-9BwZVB6-164" value="um més de ferias parabéns&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#202020);" vertex="1" parent="1">
-          <mxGeometry x="195.12" y="2430" width="114.88" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="I5XvUWn4JPm9-9BwZVB6-167" value="vota das ferias e vota para suas pesquisas de biologia." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#161616);" vertex="1" parent="1">
-          <mxGeometry x="181.56" y="2450" width="142" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="I5XvUWn4JPm9-9BwZVB6-168" value="viajar para um país&amp;nbsp; &amp;nbsp;Quénia e ver a geografia do lugar" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#131313);" vertex="1" parent="1">
           <mxGeometry x="562.4" y="2817.5" width="60" height="30" as="geometry" />
         </mxCell>
@@ -535,6 +529,36 @@
         </mxCell>
         <mxCell id="I5XvUWn4JPm9-9BwZVB6-206" value="" style="shape=mxgraph.signs.nature.maple_leaf;html=1;pointerEvents=1;fillColor=light-dark(#F8CECC,#CC0000);strokeColor=#36393d;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="1500" width="65" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="I5XvUWn4JPm9-9BwZVB6-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I5XvUWn4JPm9-9BwZVB6-213" target="I5XvUWn4JPm9-9BwZVB6-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5XvUWn4JPm9-9BwZVB6-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I5XvUWn4JPm9-9BwZVB6-213" target="I5XvUWn4JPm9-9BwZVB6-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="3060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5XvUWn4JPm9-9BwZVB6-213" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;flipV=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-66.31" y="2817.5" width="382.4" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I5XvUWn4JPm9-9BwZVB6-221" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.322;entryY=0.951;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I5XvUWn4JPm9-9BwZVB6-213" target="I5XvUWn4JPm9-9BwZVB6-167">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="2520" as="sourcePoint" />
+            <mxPoint x="220" y="2520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="2560" />
+              <mxPoint x="200" y="2560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I5XvUWn4JPm9-9BwZVB6-222" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="174.09" y="2440" width="142" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I5XvUWn4JPm9-9BwZVB6-164" value="um més de ferias parabéns&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#202020);" vertex="1" parent="I5XvUWn4JPm9-9BwZVB6-222">
+          <mxGeometry x="13.560000000000002" width="114.88" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="I5XvUWn4JPm9-9BwZVB6-167" value="vota das ferias e vota para suas pesquisas de biologia." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#161616);" vertex="1" parent="I5XvUWn4JPm9-9BwZVB6-222">
+          <mxGeometry y="20" width="142" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

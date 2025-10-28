@@ -595,17 +595,49 @@
             <mxPoint x="31" y="2930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ULBT44qZjB_O0RkBNwlT-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ULBT44qZjB_O0RkBNwlT-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="-140" y="2935" width="215" height="215" as="geometry" />
         </mxCell>
         <mxCell id="ULBT44qZjB_O0RkBNwlT-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Escolha 1&lt;/h1&gt;&lt;p&gt;Um grande furacão está&amp;nbsp; passado pela cidade Nova york pode pará-lo com seus super&amp;nbsp; poderes de umsuper herói!&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#000000,#0D0444);" vertex="1" parent="1">
           <mxGeometry x="-122.5" y="2970" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ULBT44qZjB_O0RkBNwlT-16" target="ULBT44qZjB_O0RkBNwlT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ULBT44qZjB_O0RkBNwlT-16" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;fillColor=#008a00;fontColor=#ffffff;strokeColor=light-dark(#005700,#009900);container=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="2910" width="230" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="ULBT44qZjB_O0RkBNwlT-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Escolhia&lt;/h1&gt;&lt;p&gt;viajar para o brasil e estudar artes e geografia e trabalhar como pintor e desenheista e progamador de computador&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;container=1;" vertex="1" parent="ULBT44qZjB_O0RkBNwlT-16">
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Escolhia&lt;/h1&gt;&lt;p&gt;viajar para o brasil e estudar artes e geografia e trabalhar como pintor e desenheista e progamador de computador,&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;container=1;" vertex="1" parent="ULBT44qZjB_O0RkBNwlT-16">
           <mxGeometry x="33" y="60" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-19" value="num lboraatorio do brasil de um grande cientista e vc é convidado a entra na máquina do tempo.&lt;div&gt;Parabéns!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#FF0B13);fontColor=#ffffff;strokeColor=light-dark(#B20000,#FF1313);" vertex="1" parent="1">
+          <mxGeometry x="-90" y="3240" width="185.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-21" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;shadow=0;container=1;fillColor=light-dark(#B1DDF0,#3792B9);strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="295" y="3210" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;vc&lt;/h1&gt;&lt;p&gt;Vir um super herói e quer ajundar as pessoas a se salvar de um avião qe está caindo por problemas mecánicos.É hora dele usar a SUA FORÇA ÍNCRIVEL&amp;nbsp; e salvar as pessoas!&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;container=1;fontColor=light-dark(#000000,#1A1A1A);" vertex="1" parent="ULBT44qZjB_O0RkBNwlT-21">
+          <mxGeometry x="27.87" y="50" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ULBT44qZjB_O0RkBNwlT-26" target="ULBT44qZjB_O0RkBNwlT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3460" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.676;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ULBT44qZjB_O0RkBNwlT-26" target="ULBT44qZjB_O0RkBNwlT-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-29" value="OU" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="174" y="3280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;parabéns vc&lt;/h1&gt;&lt;p&gt;ESTÁ INDO bem de mais .mais aventura não acabou vianjante falta um pouco para chega pra na emoções final mais a ainda tem muita escolhias para vc fazer.PARABÉNS POR VC JOGADOR!&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#005700,#009999);" vertex="1" parent="1">
+          <mxGeometry x="100" y="3460" width="256" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

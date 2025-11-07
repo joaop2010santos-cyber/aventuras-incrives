@@ -632,16 +632,6 @@
             <mxPoint x="-120" y="3710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jKF_-aNMs2Atk2r0AfIR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ULBT44qZjB_O0RkBNwlT-31" target="jKF_-aNMs2Atk2r0AfIR-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="3690" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="292" y="3640" />
-              <mxPoint x="640" y="3640" />
-              <mxPoint x="640" y="3756" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ULBT44qZjB_O0RkBNwlT-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;parabéns vc&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;ESTÁ INDO bem de mais .mais aventura não acabou vianjante falta um pouco para chega pra na emoções final mais a ainda tem muita escolhias para vc fazer.PARABÉNS POR VC JOGADOR!&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#005700,#009999);" parent="1" vertex="1">
           <mxGeometry x="100" y="3460" width="256" height="130" as="geometry" />
         </mxCell>
@@ -664,11 +654,6 @@
         <mxCell id="jKF_-aNMs2Atk2r0AfIR-12" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;Na&amp;nbsp; Agencia espacial&amp;nbsp; e virra um ASTRONALTA.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" parent="1" vertex="1">
           <mxGeometry x="-45.91" y="3790" width="305.91" height="150" as="geometry" />
         </mxCell>
-        <UserObject label="" treeRoot="1" id="jKF_-aNMs2Atk2r0AfIR-13">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1">
-            <mxGeometry x="530" y="3800" width="230" height="120" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="jKF_-aNMs2Atk2r0AfIR-14" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;Vc&amp;nbsp; quer trabalhar&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;em QUE ?&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="3550" width="130" height="90" as="geometry" />
         </mxCell>
@@ -696,8 +681,11 @@
         <mxCell id="ULBT44qZjB_O0RkBNwlT-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;vc&lt;/h1&gt;&lt;p&gt;Vir um super herói e quer ajundar as pessoas a se salvar de um avião qe está caindo por problemas mecánicos.É hora dele usar a SUA FORÇA ÍNCRIVEL&amp;nbsp; e salvar as pessoas!&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;container=1;fontColor=light-dark(#000000,#1A1A1A);" parent="l-TiQ5eKy-uiP8ScdpU0-8" vertex="1">
           <mxGeometry x="34.84782608695652" y="43.18181818181818" width="179.21739130434784" height="138.1818181818182" as="geometry" />
         </mxCell>
-        <mxCell id="l-TiQ5eKy-uiP8ScdpU0-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jKF_-aNMs2Atk2r0AfIR-13" target="jKF_-aNMs2Atk2r0AfIR-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="l-TiQ5eKy-uiP8ScdpU0-9" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="645" y="3920" as="sourcePoint" />
+            <mxPoint x="645" y="3920" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="l-TiQ5eKy-uiP8ScdpU0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="l-TiQ5eKy-uiP8ScdpU0-12" target="95n5--i9zidPZYP5qK7F-6" edge="1">
           <mxGeometry relative="1" as="geometry">

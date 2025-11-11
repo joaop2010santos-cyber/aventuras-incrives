@@ -574,12 +574,6 @@
             <mxPoint x="-50" y="3230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULBT44qZjB_O0RkBNwlT-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="2935" width="215" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="ULBT44qZjB_O0RkBNwlT-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Escolha 1&lt;/h1&gt;&lt;p&gt;Um grande furacão está&amp;nbsp; passado pela cidade Nova york pode pará-lo com seus super&amp;nbsp; poderes de um super herói!&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#000000,#0D0444);" parent="1" vertex="1">
-          <mxGeometry x="-130" y="2970" width="180" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="ULBT44qZjB_O0RkBNwlT-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ULBT44qZjB_O0RkBNwlT-16" target="ULBT44qZjB_O0RkBNwlT-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -635,7 +629,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jKF_-aNMs2Atk2r0AfIR-12" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;Na&amp;nbsp; Agencia espacial&amp;nbsp; e vira um ASTRONAUTA.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;fontSize=21;" parent="1" vertex="1">
-          <mxGeometry x="-44.91" y="3760" width="354.91" height="190" as="geometry" />
+          <mxGeometry x="-29.999999999999996" y="3760" width="354.91" height="190" as="geometry" />
         </mxCell>
         <mxCell id="jKF_-aNMs2Atk2r0AfIR-14" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;Vc&amp;nbsp; quer trabalhar&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;em QUE ?&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="3550" width="130" height="90" as="geometry" />
@@ -754,6 +748,15 @@
         </mxCell>
         <mxCell id="0CMK4QY-39BcOAb8tPO7-35" value="VC FOI CONVIDADO PARA AJUDAR A AMAZÕNIA&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="126" y="1053" width="342" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="0CMK4QY-39BcOAb8tPO7-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-140" y="2935" width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="0CMK4QY-39BcOAb8tPO7-36" vertex="1">
+          <mxGeometry width="215" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="ULBT44qZjB_O0RkBNwlT-15" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Escolha 1&lt;/h1&gt;&lt;p&gt;Um grande furacão está&amp;nbsp; passado pela cidade Nova york pode pará-lo com seus super&amp;nbsp; poderes de um super herói!&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=light-dark(#000000,#0D0444);" parent="0CMK4QY-39BcOAb8tPO7-36" vertex="1">
+          <mxGeometry x="20.769999999999996" y="25" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

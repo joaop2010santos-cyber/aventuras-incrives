@@ -828,8 +828,16 @@
         <mxCell id="oyu5re6IG3ga73_p-wGQ-11" value="R$" style="text;html=1;whiteSpace=wrap;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFF66;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="940" y="5031" width="224" height="102" as="geometry" />
         </mxCell>
+        <mxCell id="oyu5re6IG3ga73_p-wGQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyu5re6IG3ga73_p-wGQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1782" y="5616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oyu5re6IG3ga73_p-wGQ-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;VC&lt;/h1&gt;&lt;p&gt;&amp;nbsp;APÓS ANOS DE BATALHA DE JEDI VS O IMPERIO&amp;nbsp; &amp;nbsp;E VIAJANDO&amp;nbsp; PELO MUNDO E&amp;nbsp; FAZENDO TURIMO NO ESPAÇO VC SE APOSENTAR !&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
           <mxGeometry x="870" y="5580" width="563" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="oyu5re6IG3ga73_p-wGQ-15" value="VC JOGOU&amp;nbsp; MUITO MENICRAF&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=#3A5431;fillColor=#6d8764;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1822" y="5607" width="212" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

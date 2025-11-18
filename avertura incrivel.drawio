@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS armv7l 13597.84.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.98 Safari/537.36" version="29.0.3">
   <diagram name="Página-1" id="3WI0cumb1VK-3T5k5ap_">
-    <mxGraphModel dx="8947" dy="5129" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3477" dy="2159" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,6 +188,9 @@
         <mxCell id="Qj663cm8YKPYLCzeIp8T-2" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#CC0000);strokeColor=light-dark(#1BA1E2,#FFFF33);fontColor=#ffffff;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="195.99999999999997" y="-230" width="64" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="etMVmLuCKansHGpbVaE9-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qj663cm8YKPYLCzeIp8T-1" target="l-TiQ5eKy-uiP8ScdpU0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Qj663cm8YKPYLCzeIp8T-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;bem-VInDO&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/blockquote&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=19;fontColor=light-dark(#000000,#1A1A1A);horizontal=1;spacingLeft=-1;spacingRight=20;" parent="1" vertex="1">
           <mxGeometry x="89" y="-240" width="241" height="80" as="geometry" />
         </mxCell>
@@ -362,7 +365,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ULBT44qZjB_O0RkBNwlT-5" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="670" y="27" width="460" height="150" as="geometry" />
+          <mxGeometry x="-252.60000000000002" y="-117" width="460" height="150" as="geometry" />
         </mxCell>
         <mxCell id="95n5--i9zidPZYP5qK7F-9" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=light-dark(#A20025,#3399FF);fontColor=#ffffff;strokeColor=#6F0000;" parent="ULBT44qZjB_O0RkBNwlT-5" vertex="1">
           <mxGeometry width="459.9999999999999" height="150" as="geometry" />
@@ -394,8 +397,11 @@
             <mxPoint x="470" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l-TiQ5eKy-uiP8ScdpU0-12" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;VC É UMA PESSSOA&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(0, 0, 0));&quot;&gt;TRABALHA E TEM QUE ESTUDAR MAIS . Vc já&amp;nbsp; foi um artista(pintor) muito bom&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(0, 0, 0));&quot;&gt;demais e trabalhou na loja de celular !&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(0, 0, 0)); font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#00006A);fontColor=light-dark(#FFFFFF,#000000);strokeColor=#006EAF;dashed=1;dashPattern=8 8;align=center;fontStyle=4;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="790" y="-324" width="280" height="290" as="geometry" />
+        <mxCell id="etMVmLuCKansHGpbVaE9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="l-TiQ5eKy-uiP8ScdpU0-12" target="aqRS8GEtOJOpNkTDANwW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l-TiQ5eKy-uiP8ScdpU0-12" value="&lt;h1&gt;&lt;font style=&quot;&quot;&gt;VC É UMA PESSSOA E&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(0, 0, 0));&quot;&gt;TRABALHA E TEM QUE ESTUDAR MAIS . Vc já&amp;nbsp; foi um artista(pintor) muito bom&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(0, 0, 0));&quot;&gt;demais e trabalhou na loja de celular !&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(0, 0, 0)); font-size: 12px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#00006A);fontColor=light-dark(#FFFFFF,#000000);strokeColor=#006EAF;dashed=1;dashPattern=8 8;align=center;fontStyle=4;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="690.88" y="-360" width="280" height="290" as="geometry" />
         </mxCell>
         <mxCell id="5Ag05urr1MuodEXUlDos-6" value="patrocinio de&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#0000FF,#0F0F13);fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="221" y="-682.4" width="269" height="120" as="geometry" />
